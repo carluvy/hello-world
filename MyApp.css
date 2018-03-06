@@ -1,0 +1,23 @@
+body {
+	background: purple;
+}
+form {
+	text-align: right;
+	
+}
+h2 {
+	font-family: Serif;
+	font-size: 20px;
+}
+img {
+	height: 70px;
+	width: 100px;
+	float: right;
+}
+h3 {
+	position: bottom;
+	font-weight: bold;
+	font-style: italic;
+	
+	
+}
